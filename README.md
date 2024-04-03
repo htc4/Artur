@@ -8,16 +8,16 @@ This repository contains a clone of the Apple website, created as a project to p
 Here are some screenshots of the cloned website:
 
 1. Home Page
-   ![Home Page](Artur/home(1).jpg)
+   ![Home Page](home(1).jpg)
 
 2. Products Page
-   ![Products Page](Artur/shop.jpg)
+   ![Products Page](shop.jpg)
 
 3. Support Page
-   ![Support Page](Artur/sup.jpg)
+   ![Support Page](sup.jpg)
 
 4. Log in Page
-   ![About Page](Artur/log.jpg)
+   ![About Page](log.jpg)
 
 ## Usage
 
