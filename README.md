@@ -8,23 +8,23 @@ This repository contains a clone of the Apple website, created as a project to p
 Here are some screenshots of the cloned website:
 
 1. Home Page
-   ![Home Page](Artur html/home (1).jpg)
+   ![Home Page](Artur/home(1).jpg)
 
 2. Products Page
-   ![Products Page](Arturhtml/shop.jpg)
+   ![Products Page](Artur/shop.jpg)
 
 3. Support Page
-   ![Support Page](Arturhtml/sup.jpg)
+   ![Support Page](Artur/sup.jpg)
 
 4. Log in Page
-   ![About Page](Arturhtml/log.jpg)
+   ![About Page](Artur/log.jpg)
 
 ## Usage
 
 To view the website, simply clone this repository to your local machine and open the `index.html` file in your preferred web browser.
 
 ```bash
-git clone https://github.com/your-username/apple-website-clone.git
+git clone https://github.com/Artur/apple-website-clone.git
 ```
 
 ## Features
