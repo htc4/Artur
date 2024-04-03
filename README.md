@@ -8,7 +8,7 @@ This repository contains a clone of the Apple website, created as a project to p
 Here are some screenshots of the cloned website:
 
 1. Home Page
-   ![Home Page](home(1).jpg)
+   ![Home Page](home.jpg)
 
 2. Products Page
    ![Products Page](shop.jpg)
